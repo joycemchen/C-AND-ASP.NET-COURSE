@@ -1,0 +1,9 @@
+C:\Users\Student\source\repos\MySecondChallenge\MySecondChallenge\bin\MySecondChallenge.dll.config
+C:\Users\Student\source\repos\MySecondChallenge\MySecondChallenge\bin\MySecondChallenge.dll
+C:\Users\Student\source\repos\MySecondChallenge\MySecondChallenge\bin\MySecondChallenge.pdb
+C:\Users\Student\source\repos\MySecondChallenge\MySecondChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\source\repos\MySecondChallenge\MySecondChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\source\repos\MySecondChallenge\MySecondChallenge\obj\Debug\MySecondChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Student\source\repos\MySecondChallenge\MySecondChallenge\obj\Debug\MySecondChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MySecondChallenge\MySecondChallenge\obj\Debug\MySecondChallenge.dll
+C:\Users\Student\source\repos\MySecondChallenge\MySecondChallenge\obj\Debug\MySecondChallenge.pdb
