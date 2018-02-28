@@ -1,0 +1,9 @@
+C:\Users\Student\source\repos\MyThirdChallenge\MyThirdChallenge\bin\MyThirdChallenge.dll.config
+C:\Users\Student\source\repos\MyThirdChallenge\MyThirdChallenge\bin\MyThirdChallenge.dll
+C:\Users\Student\source\repos\MyThirdChallenge\MyThirdChallenge\bin\MyThirdChallenge.pdb
+C:\Users\Student\source\repos\MyThirdChallenge\MyThirdChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\source\repos\MyThirdChallenge\MyThirdChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\source\repos\MyThirdChallenge\MyThirdChallenge\obj\Debug\MyThirdChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Student\source\repos\MyThirdChallenge\MyThirdChallenge\obj\Debug\MyThirdChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MyThirdChallenge\MyThirdChallenge\obj\Debug\MyThirdChallenge.dll
+C:\Users\Student\source\repos\MyThirdChallenge\MyThirdChallenge\obj\Debug\MyThirdChallenge.pdb
